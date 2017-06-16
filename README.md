@@ -1,3 +1,4 @@
-# My Awesome Book
+# COSCUP 怎麼辦？
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+COSCUP 舉辦多年以來，累積了不少經驗和做法。把這些經驗、做法寫下來，希望以後能在相同的事情上花更少力氣，有更多時間可以做其他發想。
+

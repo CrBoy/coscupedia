@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [簡介](README.md)
+* [Features](chapter1.md)
+* [Internal Features](internal-features.md)
+
